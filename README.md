@@ -9,3 +9,4 @@
 ## 网络文章、博客
 
 1. [当知识图谱“遇见”深度学习](http://geek.csdn.net/news/detail/195701)
+1. [知识图谱研究进展](http://tie.istic.ac.cn/ch/reader/create_pdf.aspx?file_no=201701002&flag=1&journal_id=qbgc&year_id=2017)
